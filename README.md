@@ -9,9 +9,8 @@ Currently, two official plugins are available:
 
 **Install dependencies**
 
-    ```
-    npm i
-    npm audit fix
-
-    ```
+```
+npm i
+npm audit fix
+```
 #
