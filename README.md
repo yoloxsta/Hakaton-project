@@ -10,5 +10,6 @@ Currently, two official plugins are available:
 **Install dependencies**:
     ```sh
     npm i
-    
+    npm audit fix
+
     ```
